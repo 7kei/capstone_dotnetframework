@@ -1,0 +1,7 @@
+{
+  "SqlDataSource": "localhost",
+  "SqlUserID":"sa",
+  "SqlPassword": "change_this_password",
+  "SqlInitialCatalog": "UserDatabase",
+  "SerialPort": "COM3"
+}
